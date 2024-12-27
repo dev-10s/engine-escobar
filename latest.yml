@@ -1,0 +1,8 @@
+version: 3.1.1
+files:
+  - url: escobarapp-Setup-3.1.1.exe
+    sha512: xO5/A702vYVUuYdyyVHpKmlT/NluL1MEICvdgO+uj/H43GeIHwEu3Iu4CyDp2i1yFG11PpUbeIjAXCmF37Svjw==
+    size: 87181275
+path: escobarapp-Setup-3.1.1.exe
+sha512: xO5/A702vYVUuYdyyVHpKmlT/NluL1MEICvdgO+uj/H43GeIHwEu3Iu4CyDp2i1yFG11PpUbeIjAXCmF37Svjw==
+releaseDate: '2024-12-27T08:07:21.687Z'
