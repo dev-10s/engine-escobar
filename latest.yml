@@ -1,8 +1,8 @@
-version: 4.0.8
+version: 4.0.9
 files:
-  - url: escobarapp-Setup-4.0.8.exe
-    sha512: j/p5BEnPRWJuI7FeTPlkUrsoeUPlsjEKFUvMUjjekGtB8rIYH3P6wZltqKYo35ilfTwrBrrCOJFQ72xSoW1FBA==
-    size: 102203888
-path: escobarapp-Setup-4.0.8.exe
-sha512: j/p5BEnPRWJuI7FeTPlkUrsoeUPlsjEKFUvMUjjekGtB8rIYH3P6wZltqKYo35ilfTwrBrrCOJFQ72xSoW1FBA==
-releaseDate: '2025-03-12T11:14:32.821Z'
+  - url: escobarapp-Setup-4.0.9.exe
+    sha512: 1zyP0tQ6bzeLICxxssvCVSjYP80S7yzpuRG8RVcMs/lAX6z9nT1zqjHbJ5ercdh8+mc1a0hsdhue65h8z1eYag==
+    size: 102203743
+path: escobarapp-Setup-4.0.9.exe
+sha512: 1zyP0tQ6bzeLICxxssvCVSjYP80S7yzpuRG8RVcMs/lAX6z9nT1zqjHbJ5ercdh8+mc1a0hsdhue65h8z1eYag==
+releaseDate: '2025-03-12T11:30:02.730Z'
