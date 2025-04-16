@@ -1,8 +1,8 @@
 version: 4.1.1
 files:
   - url: escobarapp-Setup-4.1.1.exe
-    sha512: gOEtMddaeZswHkZ/6IZL6IaoixaNwOWy+00H+/7gc8vfjvYSs7qSWHPB8Eq/jYgxCdxNISmxFCwsAkvXEJEnmA==
-    size: 102210190
+    sha512: A0DJXhE86sGl9pa2IXfVt3N7Igb7oKU5NgSXeJjCo0+MP0qEHj9ewhCE/RIhQ0FZbPxvSiJ251ffzEcQ3oIFcw==
+    size: 102211158
 path: escobarapp-Setup-4.1.1.exe
-sha512: gOEtMddaeZswHkZ/6IZL6IaoixaNwOWy+00H+/7gc8vfjvYSs7qSWHPB8Eq/jYgxCdxNISmxFCwsAkvXEJEnmA==
-releaseDate: '2025-04-04T12:06:17.448Z'
+sha512: A0DJXhE86sGl9pa2IXfVt3N7Igb7oKU5NgSXeJjCo0+MP0qEHj9ewhCE/RIhQ0FZbPxvSiJ251ffzEcQ3oIFcw==
+releaseDate: '2025-04-16T11:32:40.078Z'
